@@ -3,6 +3,9 @@
 ## Introduction
 This repository contains a machine learning pipeline for predicting redacted information in masked text. It utilizes text-based feature extraction and a Random Forest Classifier to predict missing segments based on the provided context.
 
+Project demonstration:
+https://drive.google.com/file/d/1JIonEIk-4qDqnTvVgaDYiOuYEA3b03HL/view?usp=sharing
+
 ## Approach
 
 ### 1. **Data Loading and Preprocessing**
